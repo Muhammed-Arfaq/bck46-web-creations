@@ -20,7 +20,7 @@ const services = [
 ];
 
 const testimonials = [
-  { name: "Aystick", location: "Kochi, Kerala", text: "BCK46 delivered an outstanding mobile app and admin panel. Their attention to detail and technical expertise is exceptional." },
+  { name: "Larklabs", location: "Kondotty, Kerala", text: "BCK46 delivered an outstanding mobile app and admin panel. Their attention to detail and technical expertise is exceptional." },
   { name: "Mohammed Shafeeq", location: "Calicut, Kerala", text: "Professional team that understands business needs. The website they built drives real results for our company." },
   { name: "Rahul Menon", location: "Thrissur, Kerala", text: "From concept to deployment, BCK46 handled everything. Highly recommend for any digital project." },
 ];
