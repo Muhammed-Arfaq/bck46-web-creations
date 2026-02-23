@@ -11,12 +11,12 @@ const stats = [
 ];
 
 const services = [
-  { icon: Globe, title: "Static Websites", desc: "Clean, fast, and responsive websites that make a lasting impression." },
   { icon: Monitor, title: "Web Applications", desc: "Powerful web apps built with modern frameworks for seamless user experiences." },
   { icon: Smartphone, title: "App Development", desc: "Native and cross-platform mobile apps tailored to your business needs." },
   { icon: Server, title: "Hosting Solutions", desc: "Reliable hosting with 99.9% uptime, SSL, and dedicated support." },
   { icon: Code, title: "Backend Development", desc: "Robust APIs and server-side architecture to power your applications." },
   { icon: Shield, title: "UI/UX Design", desc: "Beautiful, intuitive interfaces designed with your users in mind." },
+  { icon: Globe, title: "Static Websites", desc: "Clean, fast, and responsive websites that make a lasting impression." },
 ];
 
 const testimonials = [
